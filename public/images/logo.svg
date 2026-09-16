@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" fill="none">
+  <path d="M12 36L26 12H38L24 36H12Z" fill="#FF5722"/>
+  <path d="M26 36L40 12H52L38 36H26Z" fill="#0A192F"/>
+  <path d="M4 36L14 18H24L14 36H4Z" fill="#F97316" fill-opacity="0.6"/>
+  <text x="58" y="32" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="24" letter-spacing="1.5" fill="#0A192F">KINETIC</text>
+  <text x="160" y="32" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="24" fill="#FF5722">SPORTS</text>
+</svg>
